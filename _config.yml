@@ -92,5 +92,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - node_modules
   - .vscode
   - vs.code-workspace
